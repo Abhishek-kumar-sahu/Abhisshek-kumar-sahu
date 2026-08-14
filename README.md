@@ -29,8 +29,6 @@ status: always shipping
 | 🗂️ Project | ⚙️ Stack | 🔗 Link |
 | ---------- | -------- | ------- |
 | 🎓 **Student Performance Analysis System** — analyzes and visualizes student academic performance data | `HTML` `CSS` `JS` | [View Repo](https://github.com/Abhishek-kumar-sahu/Student-Performance-Analysis-System) |
-| 🔷 **Project Name** — short description goes here | `Tech` `Stack` | [View Repo](#) |
-| 🔷 **Project Name** — short description goes here | `Tech` `Stack` | [View Repo](#) |
 
 > 💾 *"Code first, sleep later."*
 
